@@ -27,7 +27,6 @@ import socket
 import sys
 import threading
 import timeit
-import xml.parsers.expat
 
 try:
     import gzip
