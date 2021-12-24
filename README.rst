@@ -31,8 +31,8 @@ Usage
 
 ::
 
-    $ speedtest-cli -h
-    usage: speedtest-cli [-h] [--no-download] [--no-upload] [--single] [--bytes]
+    $ python speedtest.py -h
+    usage: speedtest.py  [-h] [--no-download] [--no-upload] [--single] [--bytes]
                          [--share] [--simple] [--csv]
                          [--csv-delimiter CSV_DELIMITER] [--csv-header] [--json]
                          [--list] [--server SERVER] [--exclude EXCLUDE]
@@ -41,7 +41,7 @@ Usage
 
     Command line interface for testing internet bandwidth using speedtest.net.
     --------------------------------------------------------------------------
-    https://github.com/sivel/speedtest-cli
+    https://github.com/GianlucaUlivi/speedtest-cli-ftd
 
     optional arguments:
       -h, --help            show this help message and exit
