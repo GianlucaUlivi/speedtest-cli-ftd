@@ -23,7 +23,7 @@ or
 
 ::
 
-    curl -o speedtest.py https://raw.githubusercontent.com/GianlucaUlivi/speedtest-cli-ftd/master/speedtest.py
+    curl -o speedtest.py [--insecure] https://raw.githubusercontent.com/GianlucaUlivi/speedtest-cli-ftd/master/speedtest.py
     python speedtest.py
 
 Usage
